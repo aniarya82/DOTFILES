@@ -1,0 +1,11 @@
+# This is Git's per-user configuration file.
+[user]
+# Please adapt and uncomment the following lines:
+#	name = aniarya82
+#	email = hiten.iitkgp@gmail.com
+[user]
+	name = aniarya82
+	email = hiten.iitkgp@gmail.com
+[core]
+	excludefiles = /Users/hitenchowdhary/.gitignore
+	editor = /usr/bin/vim
