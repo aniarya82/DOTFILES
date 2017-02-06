@@ -9,3 +9,68 @@
 [core]
 	excludefiles = /Users/hitenchowdhary/.gitignore
 	editor = /usr/bin/vim
+[alias]
+	a 	= add
+	ap 	= add -p
+	b	= branch
+	bm 	= branch -m
+	bd 	= branch -D
+	c 	= commit 
+	ca 	= commit --amend
+	cal 	= cammit --amend -C HEAD
+	co 	= checkout
+	cp 	= cherry-pick
+	d	= diff
+	ds	= diff --staged
+	l	= log -p --stat
+	lg 	= log --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit --date=relative
+	r	= reset
+	rh	= reset --hard
+	ri	= rebase -i
+	ra 	= rebase --abort
+	rc	= rebase --continue
+	rs	= rebase --skip
+	up = pull --rebase --autostash
+[color]
+	ui = auto
+[branch]
+#	autosetuprebase = always
+[status]
+	short = true
+	branch = true
+[diff]
+	submodule = log
+[log]
+	data = relative
+[rebase]
+	autosquash = true
+	autostash = true
+[merge]
+	conflictstyle = diff3
+	log = true
+	tool = gvimdiff
+[rerere]
+	enabled
+	autoupdate
+[blame]
+	date = relative
+	blankboundary = true
+	showroot = true
+[grep]
+	linenumber = true
+[pack]
+	threads = 0
+	usebitmaps = true
+[push]
+	default = current
+[url "https://github.com/"]
+	insteadOf = gh:
+[credential]
+#	helper = cache --timeout=259200
+#[filter 'lfs']
+#	clean = git-lfs clean %f
+#	smudge = git-lfs smudge %f
+#	required = true
+[credential]
+	helper = !aws codecommit credential-helper $@
+	UseHttpPath = true

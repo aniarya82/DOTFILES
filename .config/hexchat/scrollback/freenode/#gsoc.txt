@@ -1,0 +1,117 @@
+T 1457128875 19*	Now talking on 22#gsoc
+T 1457128875 22*	Topic for 22#gsoc is: GSoC Orgs announced, see https://summerofcode.withgoogle.com/organizations/ | More info: https://g.co/gsoc
+T 1457128875 22*	Topic for 22#gsoc set by 26kblin!~kai@samba/team/kai (24Tue Mar  1 00:36:46 2016)
+T 1457128875 -18ChanServ-	[#gsoc] Welcome to the Google Summer of Code channel! Please note that this channel is logged.
+T 1457128934 23*	28[18gsocbot28] 30(24~gsocbot@2a01:238:43f4:b800:ddbd:43d1:822b:a5bd30): 18GSoC Bot, my owner is kblin
+T 1457128934 23*	28[18gsocbot28] #gsoc 
+T 1457128934 23*	28[18gsocbot28] 29adams.freenode.net :Budapest, HU, EU
+T 1457128934 23*	28[18gsocbot28] is logged in as 18gsocbot
+T 1457128934 23*	28[18gsocbot28] End of WHOIS list.
+T 1457128947 23*	28[18aniarya28] 30(24~aniarya@203.110.242.930): 18realname
+T 1457128947 23*	28[18aniarya28] #gsoc 
+T 1457128947 23*	28[18aniarya28] 29tepper.freenode.net :US
+T 1457128947 23*	28[18aniarya28] is using a secure connection
+T 1457128947 23*	28[18aniarya28] is connecting from *@203.110.242.9 203.110.242.9
+T 1457128947 23*	28[18aniarya28] idle 2300:01:24, signon: 23Sat Mar  5 03:24:50
+T 1457128947 23*	28[18aniarya28] End of WHOIS list.
+T 1457129329 24*	panzone has quit (Quit: Leaving...)
+T 1457129342 24*	28bkuhn is now known as 18bkuhnIdle
+T 1457129367 23*	davidneale (~Lingo@cpc1-whit4-2-0-cust86.5-2.cable.virginm.net23) has joined
+T 1457129400 24*	davidneale has quit (Client Quit)
+T 1457129414 24*	Gyro has quit (Ping timeout: 240 seconds)
+T 1457129566 24*	rahulgoyal has quit (Ping timeout: 240 seconds)
+T 1457129603 >18itachi_uchiha<	Help
+T 1457129753 19*	Now talking on 22#gsoc
+T 1457129753 22*	Topic for 22#gsoc is: GSoC Orgs announced, see https://summerofcode.withgoogle.com/organizations/ | More info: https://g.co/gsoc
+T 1457129753 22*	Topic for 22#gsoc set by 26kblin!~kai@samba/team/kai (24Tue Mar  1 00:36:46 2016)
+T 1457129753 -18ChanServ-	[#gsoc] Welcome to the Google Summer of Code channel! Please note that this channel is logged.
+T 1457129781 24*	sttaylor (~sttaylor@c-50-184-23-174.hsd1.ca.comcast.net24) has left
+T 1457130086 24*	Nishi147 has quit (Ping timeout: 240 seconds)
+T 1457130133 24*	carpediem_ has quit (Ping timeout: 252 seconds)
+T 1457130236 23*	umeshksingla_ (~umeshksin@1.39.61.10423) has joined
+T 1457130301 23*	chick_ (uid135700@gateway/web/irccloud.com/x-nhipgkliceeirxwp23) has joined
+T 1457130325 24*	umeshksingla has quit (Ping timeout: 276 seconds)
+T 1457130326 24*	28umeshksingla_ is now known as 18umeshksingla
+T 1457130438 23*	avnee (~avnee@106.51.23.21723) has joined
+T 1457130629 24*	atul__ has quit (Quit: Leaving)
+T 1457130644 24*	nicolas17 (~nicolas@kde/nalvarez24) has left ("Konversation terminated!")
+T 1457130691 24*	avnee has quit (Ping timeout: 244 seconds)
+T 1457130712 24*	umeshksingla has quit (Ping timeout: 248 seconds)
+T 1457130715 24*	armenzg has quit (Quit: Leaving)
+T 1457130964 23*	sttaylor (~sttaylor@c-50-184-23-174.hsd1.ca.comcast.net23) has joined
+T 1457131243 24*	28animalroam is now known as 18codethejason
+T 1457131367 24*	itachi_uchiha has quit (Remote host closed the connection)
+T 1457131384 20*	Cannot join 22#gsoc-india (20Channel is invite only)
+T 1457131389 23*	28[18aniarya28] End of WHOIS list.
+T 1457131401 20*	Disconnected (20)
+T 1457131645 Python interface unloaded
+T 1457132086 19*	Now talking on 22#gsoc
+T 1457132086 22*	Topic for 22#gsoc is: GSoC Orgs announced, see https://summerofcode.withgoogle.com/organizations/ | More info: https://g.co/gsoc
+T 1457132086 22*	Topic for 22#gsoc set by 26kblin!~kai@samba/team/kai (24Tue Mar  1 00:36:46 2016)
+T 1457132091 -18ChanServ-	[#gsoc] Welcome to the Google Summer of Code channel! Please note that this channel is logged.
+T 1457132127 23*	imjalpreet (Thunderbir@nat/iiit/x-mbgwkygxbuiqqhuq23) has joined
+T 1457132458 24*	kittykat has quit (Quit: Leaving.)
+T 1457132622 24*	Palashvijay4O has quit ()
+T 1457132673 24*	c0mrad3 has quit (Quit: Connection closed for inactivity)
+T 1457132860 24*	zvrk has quit (Ping timeout: 276 seconds)
+T 1457132941 23*	zvrk (~zvrk@unaffiliated/zvrk23) has joined
+T 1457133137 24*	Ch3ck_ has quit (Quit: Leaving)
+T 1457133253 24*	zvrk has quit (Quit: Lost terminal)
+T 1457133553 23*	oleg-nenashev (uid126285@gateway/web/irccloud.com/x-qsymlruzgjtrraab23) has joined
+T 1457133581 24*	kvk30 has quit (Quit: Connection closed for inactivity)
+T 1457133718 24*	28bkuhnIdle is now known as 18bkuhn
+T 1457133941 23*	dcharrezt (411a7275@gateway/web/cgi-irc/kiwiirc.com/ip.65.26.114.11723) has joined
+T 1457134033 24*	thiago has quit (Remote host closed the connection)
+T 1457134040 23*	thiago (~thiago@kde/thiago23) has joined
+T 1457134180 24*	perepujal has quit (Ping timeout: 260 seconds)
+T 1457134225 24*	Akshay has quit (Ping timeout: 276 seconds)
+T 1457134389 24*	Calinou has quit (Quit: Calinou)
+T 1457134736 23*	zvrk (~zvrk@unaffiliated/zvrk23) has joined
+T 1457134850 23*	Niebieski (~user@unaffiliated/niebieski23) has joined
+T 1457134934 24*	sayan has quit (Read error: Connection reset by peer)
+T 1457135208 24*	shubham____ has quit (Quit: Connection closed for inactivity)
+T 1457135421 23*	Zephman (~Zephman@host-92-0-181-194.as43234.net23) has joined
+T 1457135885 23*	sayan (~sayanchow@fedora/sayan23) has joined
+T 1457136096 23*	RT|Chatzilla (~rt@reactos/tester/RT23) has joined
+T 1457136141 23*	gvso (~gvso@host-245.58.217.201.copaco.com.py23) has joined
+T 1457136217 24*	cospih__ has quit (Quit: Connection closed for inactivity)
+T 1457136239 24*	antlarr has quit (Ping timeout: 244 seconds)
+T 1457136254 24*	sayan has quit (Read error: Connection reset by peer)
+T 1457136266 23*	antlarr (~quassel@85.137.124.240.dyn.user.ono.com23) has joined
+T 1457147353 20*	Disconnected (20Operation timed out)
+T 1457196689 Python interface unloaded
+T 1457196689 FiSHLiM plugin unloaded
+T 1457202399 19*	Now talking on 22#gsoc
+T 1457202399 22*	Topic for 22#gsoc is: GSoC Orgs announced, see https://summerofcode.withgoogle.com/organizations/ | More info: https://g.co/gsoc
+T 1457202399 22*	Topic for 22#gsoc set by 26kblin!~kai@samba/team/kai (24Tue Mar  1 00:36:46 2016)
+T 1457202399 -18ChanServ-	[#gsoc] Welcome to the Google Summer of Code channel! Please note that this channel is logged.
+T 1457202575 24*	coolkid has quit (Ping timeout: 260 seconds)
+T 1457202671 FiSHLiM plugin unloaded
+T 1457223030 19*	Now talking on 22#gsoc
+T 1457223030 22*	Topic for 22#gsoc is: GSoC Orgs announced, see https://summerofcode.withgoogle.com/organizations/ | More info: https://g.co/gsoc
+T 1457223030 22*	Topic for 22#gsoc set by 26kblin!~kai@samba/team/kai (24Tue Mar  1 00:36:46 2016)
+T 1457223030 -18ChanServ-	[#gsoc] Welcome to the Google Summer of Code channel! Please note that this channel is logged.
+T 1457223035 23*	nelson-liu (~nelson-li@nelsons-macbook-pro.dyn.cs.washington.edu23) has joined
+T 1457223432 24*	nelson-liu has quit (Remote host closed the connection)
+T 1457223445 23*	teepee_ (~teepee@unaffiliated/teepee23) has joined
+T 1457223556 24*	teepee has quit (Ping timeout: 246 seconds)
+T 1457223556 24*	28teepee_ is now known as 18teepee
+T 1457223692 23*	Krish (~krish@202.63.156.14323) has joined
+T 1457223716 24*	28Krish is now known as 18Guest27360
+T 1457223738 23*	28[18itachi_uchiha28] 30(24itachi_uch@nat/iiit/x-wwkbswjfywqglvtd30): 18itachi_uchiha
+T 1457223739 23*	28[18itachi_uchiha28] #gsoc 
+T 1457223739 23*	28[18itachi_uchiha28] 29asimov.freenode.net :TX, USA
+T 1457223739 23*	28[18itachi_uchiha28] End of WHOIS list.
+T 1457223965 24*	Guest27360 has quit (Ping timeout: 252 seconds)
+T 1457224168 23*	jammmm (~jam@106.221.149.23723) has joined
+T 1457224383 24*	jammm has quit (Ping timeout: 268 seconds)
+T 1457224893 24*	28kais58 is now known as 18kais58|AFK
+T 1457224913 24*	28kais58|AFK is now known as 18kais58
+T 1457224963 23*	amsharma (~amsharma@unaffiliated/amsharma23) has joined
+T 1457224968 24*	Slurpee has quit (Ping timeout: 244 seconds)
+T 1457224973 23*	nelson-liu (~nelson-li@nelsons-macbook-pro.dyn.cs.washington.edu23) has joined
+T 1457224978 24*	sils has quit (Quit: Connection closed for inactivity)
+T 1457225025 24*	thc202 has quit (Quit: Leaving)
+T 1457225580 23*	Slurpee (~slurpee@adsl-108-73-119-24.dsl.klmzmi.sbcglobal.net23) has joined
+T 1457225640 Python interface unloaded
+T 1457225640 FiSHLiM plugin unloaded

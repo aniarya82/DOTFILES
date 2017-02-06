@@ -1,0 +1,6 @@
+T 1457129780 19*	Now talking on 22##gsoc-india
+T 1457129780 22*	Topic for 22##gsoc-india is:  Google Summer of Code - Indian IRC Channel | Discuss | Learn | Share | http://code.google.com/soc.Join the New Indian GSoC mailing List http://groups.google.com/group/gsoc-india
+T 1457129780 22*	Topic for 22##gsoc-india set by 26manishearth (24Thu Mar 19 09:07:00 2015)
+T 1457129780 -18ChanServ-	[##gsoc-india] Google Summer of Code - Indian IRC Channel | Discuss | Learn | Share | http://code.google.com/soc. Join the New Indian GSoC mailing List http://groups.google.com/group/gsoc-india Please note that the channel is NOT publicly logged now. yAy!
+T 1457131401 20*	Disconnected (20)
+T 1457131645 FiSHLiM plugin unloaded
